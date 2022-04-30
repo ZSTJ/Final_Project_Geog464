@@ -2,4 +2,5 @@
 
 This paper sought to explore socio-economic status and the availability and access to green space on the Island of Montreal. 
 
-All of the Code is available
+All of the Code is available at:
+
